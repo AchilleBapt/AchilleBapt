@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk System)</b>
+- <b> (Help Desk System)</b>
   - [google sheets: PayRoll-Calculator](https://github.com/AchilleBapt/PayRollCalculator-Sys)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
