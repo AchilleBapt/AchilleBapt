@@ -1,4 +1,4 @@
-<h1>Hi, I'm Achille, an <a href="https://www.linkedin.com/in/achille-baptiste-b05b9114a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Francois, an <a href="https://www.linkedin.com/in/achille-baptiste-b05b9114a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
