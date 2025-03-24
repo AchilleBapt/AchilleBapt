@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> (Help Desk System)</b>
-  - [google sheets: PayRoll-Calculator](https://github.com/AchilleBapt/PayRollCalculator-Sys)
-  - [Virtual Machine-Configuration](https://github.com/AchilleBapt/PayRollCalculator-Sys)
+  - [Google sheets: PayRoll-Calculator](https://github.com/AchilleBapt/PayRollCalculator-Sys)
+  - [Virtual Machine-Configuration](https://github.com/AchilleBapt/Virtual-Machine-Sys)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
