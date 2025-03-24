@@ -4,7 +4,7 @@
 
 - <b> (Help Desk System)</b>
   - [google sheets: PayRoll-Calculator](https://github.com/AchilleBapt/PayRollCalculator-Sys)
-  - [osTicket: Post-Installation Configuration](https://github.com/AchilleBapt/PayRollCalculator-Sys)
+  - [Virtual Machine-Configuration](https://github.com/AchilleBapt/PayRollCalculator-Sys)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
